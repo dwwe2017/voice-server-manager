@@ -1,3 +1,5 @@
+![Voice-Server Manager](https://repository-images.githubusercontent.com/254037963/2cf44d80-8018-11ea-9dbb-99f6eecfe829)
+
 ### VSM - Voice Server Manager for Plesk
 
 With the Voice Server Manager, you can manage voice servers like Teamspeak 3 or TeaSpeak easier and faster than ever before.
