@@ -1,0 +1,25 @@
+<component name="CopyrightManager">
+  <settings>
+    <module2copyright>
+      <element module="Project Files" copyright="DW Web-Engineering" />
+    </module2copyright>
+    <LanguageOptions name="CSS">
+      <option name="fileTypeOverride" value="3" />
+      <option name="block" value="false" />
+      <option name="separateBefore" value="true" />
+    </LanguageOptions>
+    <LanguageOptions name="HTML">
+      <option name="fileTypeOverride" value="3" />
+    </LanguageOptions>
+    <LanguageOptions name="JavaScript">
+      <option name="fileTypeOverride" value="3" />
+      <option name="block" value="false" />
+      <option name="separateBefore" value="true" />
+    </LanguageOptions>
+    <LanguageOptions name="PHP">
+      <option name="fileTypeOverride" value="3" />
+      <option name="block" value="false" />
+      <option name="separateBefore" value="true" />
+    </LanguageOptions>
+  </settings>
+</component>
