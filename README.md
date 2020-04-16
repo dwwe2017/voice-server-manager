@@ -1,4 +1,4 @@
-![Voice-Server Manager](https://repository-images.githubusercontent.com/254037963/2cf44d80-8018-11ea-9dbb-99f6eecfe829)
+![Voice-Server Manager](https://repository-images.githubusercontent.com/254037963/14386780-8019-11ea-8b2d-a37990aaee65)
 
 ### VSM - Voice Server Manager for Plesk
 
