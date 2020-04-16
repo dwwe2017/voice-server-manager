@@ -34,7 +34,7 @@ With the purchase of a Pro version you support our expansion and also get unlimi
 #### License
 This extension can basically be used free of charge. The pro features can be purchased [here](https://www.plesk.com/extensions/voice-server-manager/).
 
-Acknowledgments and other information
+#### Acknowledgments and other information
 The headset in the logo comes from the "I Love Icons" symbol set from Svengraph and is subject to the license [! CC Attribution 4.0](http://creativecommons.org/licenses/by/4.0/). We have also added lettering and our company logo. The copyright and all other rights for the Teamspeak logo lie exclusively with TeamSpeak Systems, Inc. or TeamSpeak Systems GmbH. The copyright and all other rights for the TeaSpeak logo lie exclusively with Teaspeak. In addition, we would like to point out that the companies mentioned above have no business relationship with this extension or with our company (DW <\\> Web Engineering) or provide any other form of support.
 
 #### Copyright
