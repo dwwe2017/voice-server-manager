@@ -31,6 +31,16 @@ With the purchase of a Pro version you support our expansion and also get unlimi
 - Monitoring the server status (monitoring), for example the voice server restarts itself if necessary
 - Management of virtual servers and access to the voice server viewer, so you can see, for example, who is online at every instance
 
+#### What is TeamSpeak / TeamSpeak?
+This is software that enables straightforward and efficient communication within the group.
+These so-called voice servers are used particularly frequently in the gaming sector, for example within
+Clans or guild communities. In contrast to conventional communication services, voice servers are special
+designed to network large groups of users with minimal response time (ping).
+
+Further information in this regard can be found at the respective provider under the following links:
+- Teamspeak: [https://teamspeak.com/en/](https://teamspeak.com/en/)
+- TeaSpeak: [https://teaspeak.de/](https://teaspeak.de/)
+
 #### License
 This extension can basically be used free of charge. The pro features can be purchased [here](https://www.plesk.com/extensions/voice-server-manager/).
 
