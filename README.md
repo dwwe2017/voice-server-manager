@@ -31,7 +31,7 @@ With the purchase of a Pro version you support our expansion and also get unlimi
 - Monitoring the server status (monitoring), for example the voice server restarts itself if necessary
 - Management of virtual servers and access to the voice server viewer, so you can see, for example, who is online at every instance
 
-#### What is TeamSpeak / TeamSpeak?
+#### What is Teamspeak / TeaSpeak?
 This is software that enables straightforward and efficient communication within the group.
 These so-called voice servers are used particularly frequently in the gaming sector, for example within
 Clans or guild communities. In contrast to conventional communication services, voice servers are special
